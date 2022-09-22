@@ -2,5 +2,5 @@
 - 👀 I’m interested in Web and c#
 - 🌱 I’m currently learning extjs framework
 
-I talk about computing and the web world to newcomers to technology
-On the podcast: 🎙 Eye on the world https://bit.ly/2RnLlil
+I am interested in computer science and the world of the web
+I talk about computer science and the web world to italian technology newbies on the podcast: 🎙 "Occhio al mondo" https://bit.ly/2RnLlil
