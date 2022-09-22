@@ -2,5 +2,5 @@
 - 👀 I’m interested in Web and c#
 - 🌱 I’m currently learning extjs framework
 
-I speak about computer science and the web ... for Tech blind
-On the podcast: 🎙 Occhio al mondo https://bit.ly/2RnLlil
+I talk about computing and the web world to newcomers to technology
+On the podcast: 🎙 Eye on the world https://bit.ly/2RnLlil
